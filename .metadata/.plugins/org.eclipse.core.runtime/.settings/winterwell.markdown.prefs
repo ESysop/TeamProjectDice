@@ -1,5 +1,8 @@
-Pref_Comment=0,224,0
-Pref_Default=208,208,208
-Pref_Header=0,255,0
-Pref_Link=217,229,119
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+Pref_Comment=255,255,255
+Pref_Default=207,191,173
+Pref_Header=255,255,255
+Pref_Link=207,191,173
 eclipse.preferences.version=1

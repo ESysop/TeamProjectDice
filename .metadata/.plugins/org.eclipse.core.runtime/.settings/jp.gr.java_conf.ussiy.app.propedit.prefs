@@ -1,6 +1,9 @@
-backgroundColor=16,16,32
-commentColor=0,224,0
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+backgroundColor=34,34,34
+commentColor=255,255,255
 eclipse.preferences.version=1
-keyColor=208,208,208
-separatorColor=208,208,208
-valueColor=220,120,220
+keyColor=207,191,173
+separatorColor=207,191,173
+valueColor=236,228,126

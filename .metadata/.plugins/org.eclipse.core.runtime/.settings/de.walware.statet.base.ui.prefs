@@ -1,6 +1,9 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
 MatchingBrackets.color=0,0,0
 eclipse.preferences.version=1
-editors/options/Parameters.background=16,16,32
-editors/options/Parameters.foreground=208,208,208
-editors/options/Proposals.background=16,16,32
-editors/options/Proposals.foreground=208,208,208
+editors/options/Parameters.background=34,34,34
+editors/options/Parameters.foreground=207,191,173
+editors/options/Proposals.background=34,34,34
+editors/options/Proposals.foreground=207,191,173

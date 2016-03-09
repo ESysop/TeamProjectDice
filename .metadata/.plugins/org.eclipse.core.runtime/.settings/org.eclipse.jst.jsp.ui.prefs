@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SCRIPT_AREA_BORDER=\#D0D0D0 | \#101020 | null | null | null | null
 commentBorder=\#00E000 | \#101020 | null | null | null | null
 commentText=\#00E000 | \#101020 | null | null | null | null
@@ -7,3 +8,17 @@ tagAttributeEquals=\#D0D0D0 | \#101020 | null | null | null | null
 tagAttributeName=\#00D0D0 | \#101020 | null | null | null | null
 tagAttributeValue=\#DC78DC | \#101020 | null | null | null | null
 tagBorder=\#D0D0D0 | \#101020 | null | null | null | null
+=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+SCRIPT_AREA_BORDER=\#F9FAF4 | null | null | null | null | null
+commentBorder=\#FFFFFF | null | null | null | null | null
+commentText=\#FFFFFF | null | null | null | null | null
+eclipse.preferences.version=1
+jsp_content=\#CFBFAD | null | null | null | null | null
+tagAttributeEquals=\#CFBFAD | null | null | null | null | null
+tagAttributeName=\#FF007F | null | null | null | null | null
+tagAttributeValue=\#ECE47E | null | null | null | null | null
+tagBorder=\#A7EC21 | null | null | null | null | null
+>>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6

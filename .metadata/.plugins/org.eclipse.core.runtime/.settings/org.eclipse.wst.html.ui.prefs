@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 commentBorder=\#00E000 | \#101020 | null | null | null | null
 commentText=\#00E000 | \#101020 | null | null | null | null
 declBoder=\#D0D0D0 | \#101020 | null | null | null | null
@@ -13,3 +14,23 @@ tagAttributeValue=\#DC78DC | \#101020 | null | null | null | null
 tagBorder=\#79ABFF | \#101020 | null | null | null | null
 tagName=\#BED6FF | \#101020 | null | null | null | null
 xmlContent=\#D0D0D0 | \#101020 | null | null | null | null
+=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+commentBorder=\#FFFFFF | null | null | null | null | null
+commentText=\#FFFFFF | null | null | null | null | null
+declBoder=\#A7EC21 | null | null | null | null | null
+doctypeExternalId=\#A7EC21 | null | null | null | null | null
+doctypeExternalPubref=\#A7EC21 | null | null | null | null | null
+doctypeExtrenalSysref=\#A7EC21 | null | null | null | null | null
+doctypeName=\#A7EC21 | null | null | null | null | null
+eclipse.preferences.version=1
+entityReference=\#FF007F | null | null | null | null | null
+tagAttributeEquals=\#CFBFAD | null | null | null | null | null
+tagAttributeName=\#CFBFAD | null | null | null | null | null
+tagAttributeValue=\#ECE47E | null | null | null | null | null
+tagBorder=\#CFBFAD | null | null | null | null | null
+tagName=\#CFBFAD | null | null | null | null | null
+xmlContent=\#CFBFAD | null | null | null | null | null
+>>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6

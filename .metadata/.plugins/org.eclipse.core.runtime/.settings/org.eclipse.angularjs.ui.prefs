@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 angularExpression=\#DC78DC | \#101020 | null | null | null | null
 angularExpressionBorder=\#D0D0D0 | \#101020 | null | null | null | null
 directiveName=\#00D0D0 | \#101020 | null | null | null | null
 directiveParameterName=\#BED6FF | \#101020 | null | null | null | null
+=======
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+angularExpression=\#ECE47E | null | null | null | null | null
+angularExpressionBorder=\#F9FAF4 | null | null | null | null | null
+directiveName=\#FF007F | null | null | null | null | null
+directiveParameterName=\#CFBFAD | null | null | null | null | null
+>>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 eclipse.preferences.version=1

@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 themeid=org.eclipse.e4.ui.css.theme.e4_default6.0,6.1,6.2,6.3,10.0
+=======
+themeid=org.eclipse.e4.ui.css.theme.e4_default6.0,6.1,6.2,6.3
+>>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
