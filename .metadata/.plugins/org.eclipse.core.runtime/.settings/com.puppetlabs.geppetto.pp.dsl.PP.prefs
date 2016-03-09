@@ -1,3 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.comment.color=255,255,255
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.default.color=207,191,173
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.doc_bold.color=255,255,255
@@ -17,6 +20,7 @@ com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.number.color=196,140
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.punctuation.color=207,191,173
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.regexp.color=236,228,126
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.resourceRef.color=82,227,246
+com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.resourceTitle.color=255,255,0
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.spaces.color=207,191,173
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.string.color=236,228,126
 com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.task.color=255,255,255
