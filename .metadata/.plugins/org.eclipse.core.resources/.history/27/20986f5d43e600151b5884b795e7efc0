@@ -1,0 +1,11 @@
+
+public class BaseRound {
+
+	String roundName;
+	int roundNumber;
+	int roundRank;
+	
+	
+	
+}
+
