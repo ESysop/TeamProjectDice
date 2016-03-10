@@ -42,7 +42,7 @@ Desktop.ini
 ######################
 # Eclipse
 ######################
- 
+
 *.pydevproject
 .project
 .metadata
@@ -58,6 +58,13 @@ local.properties
 .settings/
 .loadpath
 /src/main/resources/rebel.xml
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs
+.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.oomph.setup.ui.prefs
+.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+
 # External tool builders
 .externalToolBuilders/
  
