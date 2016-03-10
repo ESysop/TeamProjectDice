@@ -1,35 +1,9 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
+>>>>>>>=00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 content_assist_number_of_computers=19
-content_assist_proposals_background=255,255,255
-content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
 fontPropagated=true
-java_bracket=249,250,244
-java_comment_task_tag=255,255,255
-java_default=207,191,173
-java_doc_default=255,255,255
-java_doc_keyword=217,229,119
-<<<<<<< HEAD
-java_doc_link=217,229,119
-java_doc_tag=217,229,119
-java_keyword=0,208,208
-java_keyword_return=0,208,208
-java_multi_line_comment=0,224,0
-java_operator=208,208,208
-java_single_line_comment=0,224,0
-java_string=220,120,220
-=======
-java_doc_link=207,191,173
-java_doc_tag=207,191,173
-java_keyword=255,0,127
-java_keyword_return=255,0,127
-java_multi_line_comment=255,255,255
-java_operator=255,0,127
-java_single_line_comment=255,255,255
-java_string=236,228,126
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.ui.editor.tab.width=
 org.eclipse.jdt.ui.formatterprofiles.version=12
@@ -38,90 +12,10 @@ org.eclipse.jdt.ui.text.code_templates_migrated=true
 org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
 org.eclipse.jdt.ui.text.templates_migrated=true
-<<<<<<< HEAD
 org.eclipse.jdt.ui.visibility.order=B,V,R,D,
 org.eclipse.jface.textfont=1|Tahoma|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Tahoma;
 outlinesortoption=T,SF,SI,SM,F,I,C,M,
-pf_coloring_argument=0,208,208
-pf_coloring_assignment=208,208,208
-pf_coloring_comment=0,224,0
-pf_coloring_key=208,208,208
-pf_coloring_value=220,120,220
-=======
-org.eclipse.jface.textfont=1|Consolas|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
-pf_coloring_argument=255,0,127
-pf_coloring_assignment=207,191,173
-pf_coloring_comment=255,255,255
-pf_coloring_key=207,191,173
-pf_coloring_value=236,228,126
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 proposalOrderMigrated=true
-semanticHighlighting.abstractMethodInvocation.color=190,214,255
-semanticHighlighting.abstractMethodInvocation.enabled=true
-semanticHighlighting.annotation.color=255,255,255
-<<<<<<< HEAD
-semanticHighlighting.annotation.enabled=true
-semanticHighlighting.class.color=255,128,128
-semanticHighlighting.class.enabled=true
-semanticHighlighting.deprecatedMember.color=255,255,255
-semanticHighlighting.deprecatedMember.enabled=true
-semanticHighlighting.enum.color=255,255,255
-semanticHighlighting.enum.enabled=true
-semanticHighlighting.field.color=190,214,255
-semanticHighlighting.field.enabled=true
-semanticHighlighting.inheritedMethodInvocation.color=190,214,255
-semanticHighlighting.inheritedMethodInvocation.enabled=true
-semanticHighlighting.interface.color=209,151,217
-semanticHighlighting.interface.enabled=true
-semanticHighlighting.localVariable.color=121,171,255
-semanticHighlighting.localVariable.enabled=true
-semanticHighlighting.localVariableDeclaration.color=190,214,255
-semanticHighlighting.localVariableDeclaration.enabled=true
-semanticHighlighting.method.color=208,208,208
-semanticHighlighting.method.enabled=true
-semanticHighlighting.methodDeclarationName.color=190,214,255
-semanticHighlighting.methodDeclarationName.enabled=true
-semanticHighlighting.number.color=255,255,0
-semanticHighlighting.number.enabled=true
-semanticHighlighting.parameterVariable.color=121,171,255
-semanticHighlighting.parameterVariable.enabled=true
-semanticHighlighting.staticField.color=239,192,144
-semanticHighlighting.staticField.enabled=true
-semanticHighlighting.staticFinalField.color=239,192,144
-semanticHighlighting.staticFinalField.enabled=true
-semanticHighlighting.staticMethodInvocation.color=190,214,255
-semanticHighlighting.staticMethodInvocation.enabled=true
-=======
-semanticHighlighting.class.color=82,227,246
-semanticHighlighting.class.enabled=true
-semanticHighlighting.deprecatedMember.color=255,0,0
-semanticHighlighting.enum.color=100,70,50
-semanticHighlighting.field.color=207,191,173
-semanticHighlighting.inheritedMethodInvocation.color=190,214,255
-semanticHighlighting.inheritedMethodInvocation.enabled=true
-semanticHighlighting.interface.color=82,227,246
-semanticHighlighting.interface.enabled=true
-semanticHighlighting.localVariable.color=207,191,173
-semanticHighlighting.localVariableDeclaration.color=207,191,173
-semanticHighlighting.localVariableDeclaration.enabled=true
-semanticHighlighting.method.color=167,236,33
-semanticHighlighting.method.enabled=true
-semanticHighlighting.methodDeclarationName.color=167,236,33
-semanticHighlighting.methodDeclarationName.enabled=true
-semanticHighlighting.number.color=196,140,255
-semanticHighlighting.number.enabled=true
-semanticHighlighting.parameterVariable.color=121,171,255
-semanticHighlighting.parameterVariable.enabled=true
-semanticHighlighting.staticField.color=207,191,173
-semanticHighlighting.staticFinalField.color=207,191,173
-semanticHighlighting.staticMethodInvocation.color=167,236,33
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
-semanticHighlighting.typeArgument.color=191,164,164
-semanticHighlighting.typeArgument.enabled=true
-semanticHighlighting.typeParameter.color=191,164,164
-semanticHighlighting.typeParameter.enabled=true
-<<<<<<< HEAD
-sourceHoverBackgroundColor=255,255,255
 spelling_ignore_ampersand_in_properties=true
 spelling_ignore_digits=true
 spelling_ignore_java_strings=true
@@ -131,9 +25,6 @@ spelling_ignore_sentence=true
 spelling_ignore_single_letters=true
 spelling_ignore_upper=true
 spelling_ignore_urls=true
-=======
-sourceHoverBackgroundColor=34,34,34
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 spelling_locale_initialized=true
 spelling_user_dictionary_encoding=
 tabWidthPropagated=true

@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 DLTK_comment_task_tag=0,255,0
 DLTK_default=208,208,208
 DLTK_doc=204,223,50
@@ -17,32 +19,10 @@ content_assist_completion_replacement_background=16,16,32
 content_assist_completion_replacement_foreground=208,208,208
 content_assist_parameters_background=16,16,32
 content_assist_parameters_foreground=208,208,208
-=======
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
-DLTK_comment_task_tag=255,255,255
-DLTK_default=207,191,173
-DLTK_doc=255,255,255
-DLTK_doc.topic=207,191,173
-DLTK_keyword=255,0,127
-DLTK_keyword_return=255,0,127
-DLTK_number=196,140,255
-DLTK_single_line_comment=255,255,255
-DLTK_string=236,228,126
-DLTK_string.eval=236,228,126
-DLTK_string.regexp=236,228,126
-const=207,191,173
-content_assist_completion_replacement_background=34,34,34
-content_assist_completion_replacement_foreground=207,191,173
-content_assist_parameters_background=34,34,34
-content_assist_parameters_foreground=207,191,173
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 eclipse.preferences.version=1
-ruby.symbols=207,191,173
+ruby.symbols=190,214,255
 sourceHoverBackgroundColor=255,255,255
 sourceHoverBackgroundColor.SystemDefault=false
-<<<<<<< HEAD
 variable=121,171,255
 variable.class=255,128,128
 variable.class_bold=false
@@ -54,10 +34,3 @@ variable.instance_bold=false
 variable.instance_strikethrough=false
 variable.instance_underline=false
 variable.pseudo=121,171,255
-=======
-variable=207,191,173
-variable.class=82,227,246
-variable.global=207,191,173
-variable.instance=82,227,246
-variable.pseudo=207,191,173
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6

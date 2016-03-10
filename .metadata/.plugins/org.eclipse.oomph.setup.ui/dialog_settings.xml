@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-<<<<<<< HEAD
 	<section name="org.eclipse.oomph.setup.ui.synchronizer.SynchronizerDialog">
 		<item value="600" key="dialogHeight"/>
 		<item value="800" key="dialogWidth"/>
 	</section>
-=======
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 	<section name="SetupWizard">
 		<section name="ProgressPage">
 		</section>
@@ -14,5 +11,9 @@
 		</section>
 		<section name="VariablePage">
 		</section>
+	</section>
+	<section name="org.eclipse.oomph.setup.ui.recorder.PreferenceInitializationDialog">
+		<item value="600" key="dialogHeight"/>
+		<item value="500" key="dialogWidth"/>
 	</section>
 </section>

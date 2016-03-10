@@ -1,8 +1,8 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
-colorDefault=207,191,173
-colorNull=207,191,173
-colorString=236,228,126
-colorValue=207,191,173
+colorDefault=208,208,208
+colorNull=208,208,208
+colorString=220,120,220
+colorValue=190,214,255
 eclipse.preferences.version=1

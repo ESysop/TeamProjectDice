@@ -1,10 +1,10 @@
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
-color_comment=255,255,255
-color_doc=255,255,255
-color_keyword=255,0,127
-color_normal=207,191,173
-color_number=196,140,255
-color_string=236,228,126
+color_comment=0,224,0
+color_doc=204,223,50
+color_keyword=0,208,208
+color_normal=208,208,208
+color_number=255,255,0
+color_string=220,120,220
 eclipse.preferences.version=1

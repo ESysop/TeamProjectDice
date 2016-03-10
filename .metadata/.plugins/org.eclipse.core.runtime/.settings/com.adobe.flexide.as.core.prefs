@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 asASDocColor=\#CCDF32
 asBracketColor=\#D0D0D0
 asClassBold=false
@@ -17,23 +19,4 @@ asStringColor=\#DC78DC
 asTextColor=\#D0D0D0
 asTraceColor=\#BED6FF
 asVarColor=\#79ABFF
-=======
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
-asASDocColor=\#FFFFFF
-asBracketColor=\#F9FAF4
-asClassColor=\#52E3F6
-asCommentColor=\#FFFFFF
-asFunctionColor=\#A7EC21
-asInterfaceColor=\#52E3F6
-asMetadataColor=\#FFFFFF
-asOperatorColor=\#FF007F
-asPackageColor=\#52E3F6
-asReservedColor=\#FF007F
-asStringColor=\#ECE47E
-asTextColor=\#CFBFAD
-asTraceColor=\#A7EC21
-asVarColor=\#CFBFAD
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 eclipse.preferences.version=1

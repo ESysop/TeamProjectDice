@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 dtdComment=\#00E000 | \#101020 | null | null | null | null
 dtdData=\#D0D0D0 | \#101020 | null | null | null | null
 dtdDefault=\#D0D0D0 | \#101020 | null | null | null | null
@@ -7,17 +9,4 @@ dtdString=\#DC78DC | \#101020 | null | null | null | null
 dtdSymbol=\#BED6FF | \#101020 | null | null | null | null
 dtdTag=\#BED6FF | \#101020 | null | null | null | null
 dtdTagName=\#BED6FF | \#101020 | null | null | null | null
-=======
-=\=\=\=\=\=\=
-<<<<<<<=HEAD
->>>>>>>=683e780d9f8bf1aac10840f674f520ce96cc1e58
-dtdComment=\#FFFFFF | null | null | null | null | null
-dtdData=\#CFBFAD | null | null | null | null | null
-dtdDefault=\#CFBFAD | null | null | null | null | null
-dtdKeyword=\#FF007F | null | null | null | null | null
-dtdString=\#ECE47E | null | null | null | null | null
-dtdSymbol=\#CFBFAD | null | null | null | null | null
-dtdTag=\#CFBFAD | null | null | null | null | null
-dtdTagName=\#CFBFAD | null | null | null | null | null
->>>>>>> 00c27cb13892f25d6260daf6b9d0b9ceb59cf2d6
 eclipse.preferences.version=1
